@@ -40,15 +40,11 @@ Stylesheet:
   - style/water-features.mss
   - style/road-colors-generated.mss
   - style/roads.mss
-  - style/power.mss
   - style/placenames.mss
   - style/buildings.mss
-  - style/stations.mss
   - style/amenity-points.mss
-  - style/ferry-routes.mss
   - style/aerialways.mss
   - style/admin.mss
-  - style/addressing.mss
 Layer:
   - id: landcover-low-zoom
     geometry: polygon
