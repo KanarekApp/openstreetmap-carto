@@ -1,8 +1,8 @@
 // --- Parks, woods, other green things ---
 
-@grass: #bababa;        // Lch(90,32,128) also grassland, meadow, village_green, garden, allotments
+@grass: #D0DFC9;        // Lch(90,32,128) also grassland, meadow, village_green, garden, allotments
 @scrub: @forest;        // Lch(84,24,122)
-@forest: #def4e1;       // Lch(80,30,135)
+@forest: #D0DFC9;       // Lch(80,30,135)
 @forest-text: #FFF;  // Lch(40,30,135)
 @park: @forest;         // Lch(94,30,145)
 @allotments: @forest;   // Lch(87,20,135)
@@ -13,14 +13,14 @@
 
 @built-up-lowzoom: @residential;
 @built-up-z12: @residential;
-@residential: #e8e8e8;      // Lch(89,0,0)
+@residential: #F1F1F1;      // Lch(89,0,0)
 @residential-line: @residential; // Lch(75,0,0)
 @retail: @residential;           // Lch(89,16,30)
 @retail-line: @residential;      // Lch(70,25,30)
 @commercial: @residential;       // Lch(89,8.5,25)
 @commercial-line: @residential;  // Lch(75,12,25)
-@industrial: #e8e8e8;       // Lch(89,9,330) (Also used for railway, wastewater_plant)
-@industrial-line: #e8e8e8;  // Lch(75,11,330) (Also used for railway-line, wastewater_plant-line)
+@industrial: #F1F1F1;       // Lch(89,9,330) (Also used for railway, wastewater_plant)
+@industrial-line: #F1F1F1;  // Lch(75,11,330) (Also used for railway-line, wastewater_plant-line)
 @farmland: @land-color;         // Lch(94,14,112)
 @farmland-line: @land-color;    // Lch(80,14,112)
 @farmyard: @land-color;         // Lch(89,20,80)
