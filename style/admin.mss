@@ -2,6 +2,9 @@
 @admin-boundaries-narrow: #845283; // Lch(42,35,327)
 @admin-boundaries-wide: #a37da1; // Lch(57,25,327)
 
+@protected-area: #70ad70;
+@aboriginal: #82643a;
+
 /* For performance reasons, the admin border layers are split into three groups
 for low, middle and high zoom levels.
 Three attachments are used, with minor borders before major ones, and the thin centerline last, to handle
